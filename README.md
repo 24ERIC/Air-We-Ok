@@ -14,10 +14,10 @@ Our mission is to develop a soft approach to reduce carbon emission among the yo
 html, css, javascript, webflow, autocode
 
 ## Team Members
-- LinJun Zhou
-- Iris Wong
-- Jasmine Kaur
-- Keting Trinh 
+- LinJun Zhou @ericericeri#5245
+- Iris Wong @irisita#9550
+- Jasmine Kaur @jas8#3637
+- Keting Trinh  @Keting#0848
 
 ## Project Links 
 [Devpost](https://devpost.com/submit-to/17505-ellehacks-2023/manage/submissions)
