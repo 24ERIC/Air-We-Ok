@@ -1,5 +1,10 @@
-# Air-We-Ok
+## About the project
 
+We are a community-driven platform dedicated to empowering young people to take action towards a greener future. Our mission is to tackle environmental challenges and reduce carbon dioxide emissions by encouraging small but impactful steps.
+
+On our homepage, you'll see a unique streak that displays your daily progress, motivating you to continue completing challenges that make a significant difference. By joining our community, you can connect with like-minded individuals and share your accomplishments, using our emoji feature to react to others' progress and build a sense of camaraderie.
+
+Our challenges tab offers daily and monthly tasks that are both fun and challenging, making a positive impact on the environment while feeling like you're playing a game. By checking off boxes as you complete tasks, you can track your progress and earn bragging rights within the community.
 
 ## Here's the elevator pitch
 Our mission is to develop a soft approach to reduce carbon emission among the young generation during the first generation by taking a small step. 
@@ -9,20 +14,12 @@ Our mission is to develop a soft approach to reduce carbon emission among the yo
 html, css, javascript, webflow, autocode
 
 ## Team Members
-LinJun Zhou
-Iris Wong
-Jasmine Kaur
-Keting Trinh 
+- LinJun Zhou
+- Iris Wong
+- Jasmine Kaur
+- Keting Trinh 
 
-## About the project
-
-We are a community-driven platform dedicated to empowering young people to take action towards a greener future. Our mission is to tackle environmental challenges and reduce carbon dioxide emissions by encouraging small but impactful steps.
-
-On our homepage, you'll see a unique streak that displays your daily progress, motivating you to continue completing challenges that make a significant difference. By joining our community, you can connect with like-minded individuals and share your accomplishments, using our emoji feature to react to others' progress and build a sense of camaraderie.
-
-Our challenges tab offers daily and monthly tasks that are both fun and challenging, making a positive impact on the environment while feeling like you're playing a game. By checking off boxes as you complete tasks, you can track your progress and earn bragging rights within the community.
-
-
+## Project Links 
 [Devpost](https://devpost.com/submit-to/17505-ellehacks-2023/manage/submissions)
 
 [Demo video](https://youtu.be/MFJUJsoTO7I)
