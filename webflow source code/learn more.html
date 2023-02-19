@@ -1,0 +1,21 @@
+<!-- script for learn more page -->
+
+<script>
+    // window.addEventListener("onclick", () => {
+       //getAirtableListings();
+     //});
+     
+     window.onload = function () {
+           buttonSpeler1 = document.getElementById("submit-input");
+           buttonSpeler1.addEventListener("click", getAirtableListings);
+       };
+   
+     function getAirtableListings() {
+       fetch("https://ericericeric.autocode.dev/my-new-project@dev/")
+       .then((response) => response.json())
+       .then((data) => {
+           document.getElementById("output-box").innerHTML = data["choices"][0]["text"];
+       });
+     }
+</script>
+   
