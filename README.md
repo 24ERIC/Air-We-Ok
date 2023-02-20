@@ -34,4 +34,3 @@ html, css, javascript, webflow, autocode
 
 [presentation ppt](https://www.canva.com/design/DAFa8RZr3Vo/lXCz2w5iVTdhKL8twFFy-w/view?utm_content=DAFa8RZr3Vo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-[video demo](https://youtu.be/MFJUJsoTO7I)
